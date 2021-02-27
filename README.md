@@ -1,6 +1,7 @@
 # JavaTut
 ## Java Tutorial
 
-# Encapsulation
-## TutEncapsulation.java
+
+### Encapsulation
+#### TutEncapsulation.java
 
